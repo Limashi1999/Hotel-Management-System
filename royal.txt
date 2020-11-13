@@ -1,0 +1,15 @@
+31	single	20000
+32	single	20000
+33	single	20000
+34	single	20000
+35	single	20000
+36	double	30000
+37	double	30000
+38	double	30000
+39	double	30000
+40	double	30000
+41	suit	50000
+42	suit	50000
+43	suit	50000
+44	suit	50000
+45	suit	50000

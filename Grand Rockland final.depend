@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1561883214 source:d:\campus\group pro\second sem\c++\grand rockland final\grand rockland final\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	<stdlib.h>
+	<conio.h>
+
